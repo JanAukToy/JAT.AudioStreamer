@@ -1,7 +1,7 @@
 object FormMain: TFormMain
   Left = 0
   Top = 0
-  Caption = 'JAudioLib - AudioStreamingClientByFFmpeg'
+  Caption = 'JAudioLib - AudioStreamingClientWithFFmpeg'
   ClientHeight = 411
   ClientWidth = 334
   Color = clBtnFace
