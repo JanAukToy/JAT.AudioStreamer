@@ -4,6 +4,8 @@
 
 Receive audio streaming with VLC player.
 
+!Actually this library is not relevant.
+
 ## Features
 
 Playing streaming audio over a network.
