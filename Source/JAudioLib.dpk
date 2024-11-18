@@ -41,6 +41,8 @@ contains
   JalRenderAudioThread in 'JalRenderAudioThread.pas',
   JalWaveHelper in 'JalWaveHelper.pas',
   JalWaveReader in 'JalWaveReader.pas',
-  JalWaveWriter in 'JalWaveWriter.pas';
+  JalWaveWriter in 'JalWaveWriter.pas',
+  Jal.FFmpeg.AudioStreamingClientPipe in 'Jal.FFmpeg.AudioStreamingClientPipe.pas',
+  Jal.FFmpeg.Defines in 'Jal.FFmpeg.Defines.pas';
 
 end.

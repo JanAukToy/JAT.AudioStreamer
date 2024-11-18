@@ -17,10 +17,10 @@ Primarily use Windows WASAPI.
 * Shared / Exclusive mode.
   * The exclusive mode only supports limited formats, so please be aware.
 
-* Capture Mic Audio.
-* Capture System Audio.
-* Capture audio save To Wave(Format customizable).
+* Capture audio(mic/system) buffer.
+* Capture audio(mic/system), and save to Wave(Format customizable).
 * Render(Play) audio from Wave.
+* Capture audio(mic/system), and streaming to server over network with FFmpeg.
 
 ## Summary
 
